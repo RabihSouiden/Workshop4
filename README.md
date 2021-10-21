@@ -10,7 +10,7 @@ Notebook para insertar y consultar datos yn Google BigTable
 ## Installation
 1. Clone this repository or download zip
 ```bash
-git clone https://github.com/RabihSouiden/Workshop3
+git clone https://github.com/RabihSouiden/Workshop4
 ```
 2. Execute all blocks in order
 
